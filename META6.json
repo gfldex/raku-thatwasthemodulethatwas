@@ -1,0 +1,30 @@
+{
+  "license": "Artistic-2.0",
+  "source-url": "https://github.com/gfldex/raku-thatwasthemodulethatwas.git",
+  "version": "0.0.1",
+  "description": "",
+  "name": "ThatWasTheModuleThatWas",
+  "resources": [
+  ],
+  "production": false,
+  "support": {
+    "source": null
+  },
+  "test-depends": [
+  ],
+  "meta-version": "0",
+  "provides": {
+  },
+  "tags": [
+  ],
+  "build-depends": [
+  ],
+  "perl": "6.c",
+  "depends": [
+    "Test::META"
+  ],
+  "authors": [
+    "Wenzel P. P. Peppmeyer <wenzel.peppmeyer@gmx.de>"
+  ],
+  "auth": "github:gfldex"
+}
